@@ -70,8 +70,8 @@ Download from https://www.sleuthkit.org/sleuthkit/download.php
 ### Step 2: Clone and Set Up
 
 ```bash
-git clone https://github.com/deborah-nguefack/tsk-validation-harness.git
-cd tsk-validation-harness
+git clone https://github.com/Nao-Iam/Validation-harnesss.git
+cd Validation-harness
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
